@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerChaining", "LoggerChaining\LoggerChaining.csproj", "{FB836C9C-DBF9-4BFA-BA32-5C5BD454F1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB836C9C-DBF9-4BFA-BA32-5C5BD454F1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB836C9C-DBF9-4BFA-BA32-5C5BD454F1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB836C9C-DBF9-4BFA-BA32-5C5BD454F1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB836C9C-DBF9-4BFA-BA32-5C5BD454F1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F40DB2CE-AEDD-4DCB-B96C-FB225E520CDB}
+	EndGlobalSection
+EndGlobal
